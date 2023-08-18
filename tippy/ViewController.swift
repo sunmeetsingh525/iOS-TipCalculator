@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  tippy
-//
-//  Created by Heggy Castaneda on 3/13/18.
-//  Copyright © 2018 Heggy Castaneda. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
